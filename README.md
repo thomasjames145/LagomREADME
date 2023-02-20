@@ -1,7 +1,7 @@
 ![Lagom](https://raw.githubusercontent.com/thomasfrandsen01/logo/main/lagomlogo.jpg)
 ## Preface
 
-'Lagom' translates to just the right amount in Scandinavian culture. I believe that is what I have done here. This is a vanilla plus styled list based off of Skyrim Modding Essentials and modeled after AVO and Nolvus. My goal was to completely modernize the graphics, overhaul animations and combat, and add as much lore friendly content as possible (still going to work on that). Mods like ESO Imports, LotD, Bruma, and many others help me in doing so. This is a very rough version that is not complete, I have barely spent time in the world so I am not for sure of any bugs. Any bugs, glitches, missing textures, anything out of place or etc. could be, with great apprecation, reported in my discord which I will link. Thank you!
+'Lagom' translates to just the right amount in Scandinavian culture. I believe that is what I have done here. This is a vanilla plus styled list based off of Skyrim Modding Essentials and modeled after AVO and Nolvus. My goal was to completely modernize the graphics, overhaul animations and combat, and add as much lore friendly content as possible (still going to work on that). Mods like ESO Imports, LotD, Bruma, and many others help me in doing so. This is a very rough version that is not complete, I have barely spent time in the world so I am not for sure of any bugs. Any bugs, glitches, missing textures, anything out of place or etc. could be, with great apprecation, reported in my discord which I will link [here](https://discord.gg/nYWjDEcb56). Thank you!
 
 **Anniversay Edition is required**
 
@@ -54,7 +54,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Click `browse modlists` (don't forget to tick show `unofficial lists`), and download Elysium Remastered from the Modlist Gallery. Wait until you are forwarded to the next window.
-3. Adjust the download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Elysium Remastered. The Download Path will update automatically. You can move it elsewhere if you want.
+2. Download my wabbajack file from [here](
+3. Adjust the download and installation paths. I recommend c:\Lagom. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
