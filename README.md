@@ -5,6 +5,29 @@
 
 **Anniversay Edition is required**
 
+### Setting Up Pagefile
+
+Due to the resources required to run modlists like these, you will need to configure the pagefile on your system in order to avoid crashes and bugs that may occur from running out of memory. This step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
+  I suggest a 40GB fixed-size pagefile for Arisen solely for safety, but it is very possible that you could get away with a 20GB (20480 instead of 40960 in the **Initial** and **Maximum Size** boxes). While a 20GB pagefile may be usable, I do not plan on testing it any time soon, so do so at your own risk.
+
+To set up your pagefile:
+1. Press **Win Key + R**
+2. Type *sysdm.cpl ,3* and hit **ENTER**
+3. Navigate to *Performance* and click the box "Settings..."
+4. Click the *Advanced* tab at the top
+5. Under *Virtual Memory* click the box "Change..."
+6. Uncheck *Automatically manage* if it is checked
+7. Select your disk drive, ideally your fastest solid state drive
+8. Click the **Custom size:** button
+9. In the box next to **Initial Size (MB)** type 40960
+10. In the box next to **Maximum Size (MB)** type 40960
+11. Click the *Set* button
+12. Click *OK*
+13. Click *Apply*
+14. Click *OK*
+15. Restart your computer in order for your new pagefile to take effect.
+
+
 ## Installation
 
 ### Pre-Installation
