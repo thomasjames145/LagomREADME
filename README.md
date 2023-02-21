@@ -118,6 +118,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 I do not want to try to whitelist yet, as I dont know how, so I am linking my outputs separetly. Just put them under the OUTPUTS seperator and sort with loot. [the link](https://mega.nz/folder/OA1w2ZKY#v9FnZQqzB62oTHGMfwBlFQ)
 
+Put them like this
+
+![example](https://raw.githubusercontent.com/thomasjames145/friendly-chainsaw/main/Desktop%20Screenshot%202023.02.21%20-%2010.14.18.37.png)
+
 ### Nolvus Music Patch
 
 Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](https://www.nolvus.net/guide/natl/sfx). Its an absolutely wonderful modlist and my main inspiration. Highly recommend downloading it and checking it out. Just need the music patch.
