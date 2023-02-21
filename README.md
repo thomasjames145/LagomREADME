@@ -81,3 +81,28 @@ The download and installation process can take a very long time, depending on yo
 3. Adjust the download and installation paths. I recommend c:\Lagom. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
+##### Problems with Wabbajack
+
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you lose no progress.
+
+##### Could not download x
+
+**High Poly Head:** Mirror available [here](https://drive.google.com/drive/folders/1V_jcYzwTiKnSv8Dbv-7Z0hh9SWbkn6Bi) aswell as in the discord. Download the missing files manually, drop them in the WJ downloads folder **WITHOUT EXTRACTING** and rerun Wabbajack.
+
+**x is not a whitelisted download:**
+
+This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+
+**Wabbajack could not find my game folder:**
+
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+
+## Post-Installation
+
+### Output Files
+
+I do not want to try to whitelist yet, as I dont know how, so I am linking my outputs separetly. Just put them under the Output seperator and sort with loot. [the link](https://mega.nz/folder/OA1w2ZKY#v9FnZQqzB62oTHGMfwBlFQ)
+
+### Nolvus Music Patch
+
+Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](.
