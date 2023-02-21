@@ -118,3 +118,4 @@ You will then insert it under the NOLVUS SOUNDS AND MUSIC seperator between Nygh
 ## Finishing Line
 
 Please join my discord server and leave any feedback or suggestions for the modlist. Im also looking to improve and I am very new to this. Consider this an alpha version, so much can be changed or improved. Thank you and Enjoy!
+I would also recommend checking out PureDark's (the author of the new upscaler mod) patreon for an enb compatible upscaler. I use it on my RTX 2060 and it makes my frames a stable 60 anywhere.
