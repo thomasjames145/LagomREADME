@@ -29,6 +29,19 @@ To set up your pagefile:
 14. Click *OK*
 15. Restart your computer in order for your new pagefile to take effect.
 
+## System Requirements
+
+### Minimum Specifications for ~60 fps gameplay at 1920x1080
+
+>  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on my own experiences. I play at 1440p with an upscaler and get 60fps on these specs so adjust as needed.
+
+| Spec Category | Default Profile |
+|     :---:    |     :---:     |
+| **CPU**   | i5 9600k |  
+| **Video Card**    | RTX 2060        |
+| **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
+| **Storage**    | SATA SSD     |
+
 
 ## Installation
 
