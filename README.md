@@ -47,7 +47,6 @@ To set up your pagefile:
 
 ### Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
