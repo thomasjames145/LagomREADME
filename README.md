@@ -101,8 +101,14 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Output Files
 
-I do not want to try to whitelist yet, as I dont know how, so I am linking my outputs separetly. Just put them under the Output seperator and sort with loot. [the link](https://mega.nz/folder/OA1w2ZKY#v9FnZQqzB62oTHGMfwBlFQ)
+I do not want to try to whitelist yet, as I dont know how, so I am linking my outputs separetly. Just put them under the OUTPUTS seperator and sort with loot. [the link](https://mega.nz/folder/OA1w2ZKY#v9FnZQqzB62oTHGMfwBlFQ)
 
 ### Nolvus Music Patch
 
-Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](.
+Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](https://www.nolvus.net/guide/natl/sfx). Its an absolutely wonderful modlist and my main inspiration. Highly recommend downloading it and checking it out. Just need the music patch.
+
+![example](https://raw.githubusercontent.com/thomasfrandsen01/musicpatchexample/main/Desktop%20Screenshot%202023.02.20%20-%2016.03.54.56.jpg)
+
+You will then insert it under the NOLVUS SOUNDS AND MUSIC seperator between Nyghtfall and Immersive Sounds.
+
+![example](https://raw.githubusercontent.com/thomasfrandsen01/musicpatchexamplemo2/main/Desktop%20Screenshot%202023.02.20%20-%2020.05.12.86%20(2).jpg)
