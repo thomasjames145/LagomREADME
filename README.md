@@ -112,3 +112,7 @@ Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](http
 You will then insert it under the NOLVUS SOUNDS AND MUSIC seperator between Nyghtfall and Immersive Sounds.
 
 ![example](https://raw.githubusercontent.com/thomasfrandsen01/musicpatchexamplemo2/main/Desktop%20Screenshot%202023.02.20%20-%2020.05.12.86%20(2).jpg)
+
+## Finishing Line
+
+Please join my discord server and leave any feedback or suggestions for the modlist. Im also looking to improve and I am very new to this. Consider this an alpha version, so much can be changed or improved. Thank you and Enjoy!
