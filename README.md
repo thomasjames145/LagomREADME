@@ -1,4 +1,4 @@
-![Lagom](https://raw.githubusercontent.com/thomasfrandsen01/logo/main/lagomlogo.jpg)
+![Lagom](https://raw.githubusercontent.com/thomasjames145/logo/main/lagomlogo.jpg)
 ## Preface
 
 Join my [Discord](https://discord.gg/nYWjDEcb56) ! Feedback and troubleshooting is welcomed/available.
@@ -109,11 +109,11 @@ I do not want to try to whitelist yet, as I dont know how, so I am linking my ou
 
 Lagom utilizes the music and sounds section of the amazing [Nolvus Modlist](https://www.nolvus.net/guide/natl/sfx). Its an absolutely wonderful modlist and my main inspiration. Highly recommend downloading it and checking it out. Just need the music patch.
 
-![example](https://raw.githubusercontent.com/thomasfrandsen01/musicpatchexample/main/Desktop%20Screenshot%202023.02.20%20-%2016.03.54.56.jpg)
+![example](https://raw.githubusercontent.com/thomasjames145/musicpatchexample/main/Desktop%20Screenshot%202023.02.20%20-%2016.03.54.56.jpg)
 
 You will then insert it under the NOLVUS SOUNDS AND MUSIC seperator between Nyghtfall and Immersive Sounds.
 
-![example](https://raw.githubusercontent.com/thomasfrandsen01/musicpatchexamplemo2/main/Desktop%20Screenshot%202023.02.20%20-%2020.05.12.86%20(2).jpg)
+![example](https://raw.githubusercontent.com/thomasjames145/musicpatchexamplemo2/main/Desktop%20Screenshot%202023.02.20%20-%2020.05.12.86%20(2).jpg)
 
 ## Finishing Line
 
