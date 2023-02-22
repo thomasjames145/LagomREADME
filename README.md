@@ -42,6 +42,9 @@ To set up your pagefile:
 | **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
 | **Storage**    | SATA SSD     |
 
+Requires 238gb space total
+77gb download folder
+
 
 ## Installation
 
