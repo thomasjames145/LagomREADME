@@ -116,9 +116,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
-Run Synthesis patch HighPolyHead=RaceMenu Patcher. 
-
-![example](https://github.com/thomasjames145/synthesislagom/blob/main/Desktop%20Screenshot%202023.02.23%20-%2023.18.01.31.png?raw=true)
 
 ## Finishing Line
 
