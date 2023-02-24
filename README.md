@@ -116,6 +116,8 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
+AS OF RELEASE 1.03 THIS IS NOT NEEDED. ONLY USE IF USING A VERSION PRIOR TO 1.03
+
 ### Output Files
 
 I do not want to try to whitelist yet, as I dont know how, so I am linking my outputs separetly. Just put them under the OUTPUTS seperator and sort with loot. [the link](https://mega.nz/folder/OA1w2ZKY#v9FnZQqzB62oTHGMfwBlFQ)
