@@ -116,7 +116,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
-##AS OF RELEASE 1.03 THIS IS NOT NEEDED. ONLY USE IF USING A VERSION PRIOR TO 1.03
+## AS OF RELEASE 1.03 THIS IS NOT NEEDED. ONLY USE IF USING A VERSION PRIOR TO 1.03
 
 ### Output Files
 
