@@ -96,7 +96,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Download my wabbajack file from [here](https://mega.nz/file/6NdDyKKD#VebsRfsgsiFdd5O48mXnjBxyGpDR4LYLxGHkkuLrgR0) 1.06
+2. Download my wabbajack file from [here](https://mega.nz/file/3dlwHI5I#0e6CBY7BoMR-38DBJvdF20zOOaFu5lownBeFccWNpm4) 1.07
 3. Adjust the download and installation paths. I recommend c:\Lagom. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
