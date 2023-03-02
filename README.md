@@ -16,9 +16,9 @@ Join my [Discord](https://discord.gg/nYWjDEcb56) ! Feedback and troubleshooting 
 
 'Lagom' translates to "just the right amount" in Scandinavian culture. I believe that is what I have done here. This is a vanilla plus styled list based off of [Skyrim Modding Essentials](https://thephoenixflavour.com/skyrim-se/sme/introduction/) and modeled after [AVO](https://github.com/The-Animonculory/AVO-AE/blob/main/Readme.md) and [Nolvus](nolvus.net). My goal was to completely modernize the graphics, overhaul animations and combat, and add as much lore friendly content as possible (still going to work on that). Mods like ESO Imports, LotD, Bruma, ADXP-MCO, Immersive Armors Rexture, and many others help me in doing so. This is a very rough version that is not complete, I have barely spent time in the world so I am not for sure of any bugs. Any bugs, glitches, missing textures, anything out of place or etc. could be, with great apprecation, reported in my discord which I will link [here](https://discord.gg/nYWjDEcb56). Thank you!
 
-##Anniversay Edition is required
+## Anniversay Edition is required
 
-##Creation Kit is required
+## Creation Kit is required
 
 ### Setting Up Pagefile
 
@@ -107,7 +107,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time, depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and fastest speed, it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Download my wabbajack file from [here](https://mega.nz/file/eY8iVbKA#z5vJdx-bQqIOuCY9aGblIHmIzS-FNjpe9LmbaFU2xIU) 1.08
+2. Download my wabbajack file from [here]() 1.1
 3. Adjust the download and installation paths. I recommend c:\Lagom. The Download Path will update automatically. You can move it elsewhere if you want.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
@@ -128,6 +128,10 @@ This can happen when I update the modlist. Check if a new update is available an
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ## Post-Installation
+
+**Voiced Protagonist:**
+
+If using, move the plugins above modernbrawlfix.esp in the plugins tab.
 
 **Upscaler:**
 
