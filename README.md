@@ -1,4 +1,9 @@
 ![Lagom](https://raw.githubusercontent.com/thomasjames145/logo/main/lagomlogo.jpg)
+
+[**Showcase**](https://www.youtube.com/watch?v=5lNL0qTmyhQ&t=1s)
+
+
+
 ## Preface
 
 Join my [Discord](https://discord.gg/nYWjDEcb56) ! Feedback and troubleshooting is welcomed/available.
