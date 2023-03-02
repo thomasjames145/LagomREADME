@@ -1,6 +1,6 @@
 ![Lagom](https://raw.githubusercontent.com/thomasjames145/logo/main/lagomlogo.jpg)
 
-[##SHOWCASE](https://www.youtube.com/watch?v=5lNL0qTmyhQ&t=1s)
+[## SHOWCASE](https://www.youtube.com/watch?v=5lNL0qTmyhQ&t=1s)
 
 ^^As of Lagom 1.1
 Added: 
