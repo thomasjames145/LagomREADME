@@ -118,6 +118,19 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
+**Upscaler:**
+
+Ensure that the upscaler mod is set to DLAA in  its ini settings if using.
+
+**MCM RECORDER:**
+
+After creating a character, you must wait for all the scripts in the top right corner to finish running. Then, go into the Mod Configuration Menu and find the MCM RECORDER mcm. Click it and Run the Lagom MCM preset. Click run recording. Let the MCM configure, and then make a clean save.
+
+
+**Let Your Hair Down:**
+
+To use this mod, choose your first hair of choice (Up or Down), and set it as so on the MCM. Then hit ~ and type 'showracemenu' and select your other hair of choice. Finish in MCM.
+
 
 ## Finishing Line
 
