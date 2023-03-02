@@ -1,7 +1,13 @@
 ![Lagom](https://raw.githubusercontent.com/thomasjames145/logo/main/lagomlogo.jpg)
 
-[**Showcase**](https://www.youtube.com/watch?v=5lNL0qTmyhQ&t=1s)
+[##SHOWCASE](https://www.youtube.com/watch?v=5lNL0qTmyhQ&t=1s)
 
+^^As of Lagom 1.1
+Added: 
+Summerset Isle, Beyond Reach, and Unmarked Locations to further flesh out the lore/available quests. Armors of the Velothi pt II to add more lore friendly armor. Quick Light to always have light when it's dark. Wintersun to add religion and religious buffs. Carriage Stops of Skyrim to make fast traveling to smaller landmarks easier. I also improved the lods and added Optional Upscaler support! (DLAA only).
+
+Other mods of note that I’ve added since v1:
+Moonpath to Elsweyr, the follower mod Auri, Dragonborn Voiceover (optional voiced protagonist mod), AC Valhalla inspired MCO moveset nordic, assorted RYNS visual overhauls, swapped dibella's blessing for courageous women of skyrim, and much more.(Up to 890+ mods)
 
 
 ## Preface
